@@ -149,6 +149,3 @@ For example:
 
 ## Commit N°1
 ## Commit N°2
-## Commit N°3
-## Commit N°4
-## Commit N°5
