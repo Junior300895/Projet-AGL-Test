@@ -149,3 +149,4 @@ For example:
 
 ## Commit N°1
 ## Commit N°2
+## Commit N°2
